@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hai Van</string>
+     <string moduleConfig="true" name="CodePushDeploymentKey">ldgIziXUUEtObZfI3Niq4F2R8dLR-0DPAixsJ</string>
+</resources>

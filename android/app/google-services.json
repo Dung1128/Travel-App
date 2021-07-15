@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "610055285839",
+    "project_id": "travel-app-dd69d",
+    "storage_bucket": "travel-app-dd69d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610055285839:android:69aa2fba2b2eb7bda7ce3a",
+        "android_client_info": {
+          "package_name": "com.test.dungnt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610055285839-0ba5t3jipnr0tl7fmveotvumr9jc2mvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq1Ua6RdZML5ij8LCLBZtmDSuwZfsi-Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610055285839-0ba5t3jipnr0tl7fmveotvumr9jc2mvp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610055285839-j8mcjc08ii8ma0iepksu00n97e6oht2l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.test.dungnt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -13,7 +13,6 @@ const TextInputCustom = (props) => {
     return <TextInput
         {...props}
         allowFontScaling={false}
-        placeholderTextColor={colors.grey}
         underlineColorAndroid='transparent'
         style={[{
             fontFamily: fontFamily.regular,
